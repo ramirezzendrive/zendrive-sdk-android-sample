@@ -29,4 +29,4 @@ integration.
  - Build the zendrivesdktesting variant of the sample app
  - Simulate!
 
-###### Please go to [Zendrive Android SDK](https://docs.zendrive.com/android/start) documentation for further details.
+###### Please go to [Zendrive Android SDK](https://docs.zendrive.com/B7PG6rP8ujTHa19kFsBP/android/integrate) documentation for further details.
